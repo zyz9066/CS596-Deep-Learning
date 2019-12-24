@@ -20,7 +20,7 @@ The classifiers implemented are the following:
 * GoogLeNet,
 * Dual Path Networks.
 
-## Project: 3D object recognition
+## Project: [3D object recognition](https://shapenet.cs.stanford.edu/shrec16/)
 The recognition of 3D objects has been widely studied during the last decade. Its
 applications are various including medical imaging, virtual reality, face detection, cultural
 heritage, and quality control. The principle is to recognize 3D objects based on their shapes
